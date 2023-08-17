@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Moyank Giri</h1>
 <h2>Brief Description</h2>
 <p>I have keen interest towards Data Science & Artificial Intelligence and Cloud Computing. I have worked in more than 10 projects prominently in the field of Data Science. I have interned at Hewlett Packard Enterprise and Muxable Labs, both of which have offered Full Time Employement with 15+ LPA CTC. I have also worked as a Subject Matter Expert for a course in Data Science. I have been awarded scholarships at the University for being amongst the top 20% at the University. I have authored 2 research papers in the field of Data Science. My CGPA is 9.0 /10 in B.Tech CSE. </p>
-<p>PRESENT STATUS Pursuing M.Tech at IIT Bhilai in the field of "Data Science and Artificial Intelligenced developer from India</p>
-
+<p>PRESENT STATUS Pursuing M.Tech at IIT Bhilai in the field of "Data Science and Artificial Intelligence"
 
 
 <h3 align="left">Languages and Tools:</h3>
