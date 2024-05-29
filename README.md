@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Moyank Giri</h1>
 <h2>Brief Description</h2>
-<p>I have keen interest towards Data Science & Artificial Intelligence and Cloud Computing. I have worked in more than 10 projects prominently in the field of Data Science. I have interned at Hewlett Packard Enterprise and Muxable Labs, both of which have offered Full Time Employement with 15+ LPA CTC. I have also worked as a Subject Matter Expert for a course in Data Science. I have been awarded scholarships at the University for being amongst the top 20% at the University. I have authored 2 research papers in the field of Data Science. My CGPA is 9.0 /10 in B.Tech CSE. </p>
-<p>PRESENT STATUS Pursuing M.Tech at IIT Bhilai in the field of "Data Science and Artificial Intelligence"
+<h3>IIT Bhilai Mtech Data Science & AI (Completing in June 2025) | BTech in CSE from PES with a Specialization in "Machine Intelligence and Data Science"</h3>
+<p>Currently pursuing M.Tech at IIT BHILAI in the field of DSAI (with GATE 2023) and scored 9.12 CGPA till completion of 1st Semester. Research interests include "Development of State-of-the-art Efficient Learning Models for Edge Networks" and "Detecting and Solving ’Out-of-Order Distribution’ problem" currently being researched.
+
+Graduated in CSE with a specialization in "Machine Intelligence and Data Science" with 9.0 CGPA and 2 Full-Time Employment offers of 17+ LPA from Hewlett Packard Enterprises (R&D, India) and Muxable Labs, USA (India)
+
+Authored 2 papers (One Journal and One IEEE Conference) and worked in 10+ projects in the field of Data Science. Represented IIT Bhilai in the Inter-IIT Tech Meet 2023. Also been awarded scholarships during my B.Tech </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
